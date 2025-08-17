@@ -75,7 +75,7 @@ export default function ContributePage() {
             Help PatterNix Grow! 🌟
           </h1>
           <p className="text-lg text-gray-600 max-w-lg mx-auto">
-            We're working towards our first milestone. Your support means everything!
+            We&apos;re working towards our first milestone. Your support means everything!
           </p>
         </div>
 

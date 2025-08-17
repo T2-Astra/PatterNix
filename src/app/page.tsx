@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { Toaster } from "sonner";
 import { ThemeProvider } from "@/components/providers/theme-provider";
 import { gridPatterns } from "@/data/patterns";
@@ -28,10 +28,10 @@ export default function Home() {
     : null;
 
   // Create safe style object to avoid CSS property conflicts
-  const getPatternStyle = (patternStyle: any) => {
+  const getPatternStyle = (patternStyle: React.CSSProperties) => {
     if (!patternStyle) return {};
     
-    const safeStyle: any = {};
+    const safeStyle: React.CSSProperties = {};
     
     // Handle background properties carefully
     if (patternStyle.background) {
