@@ -48,7 +48,7 @@ Contributions are welcome! Feel free to submit new patterns, improvements, or bu
 
 If you find PatterNix helpful, consider supporting the project:
 
-- ☕ **Buy me coffee**: [https://buymeacoffee.com/t2astra/e/447345](https://buymeacoffee.com/t2astra)
+- ☕ **Buy me coffee**: [https://buymeacoffee.com/t2astra](https://buymeacoffee.com/t2astra)
 - 💳 **UPI Payment**: `krishmhatre34@oksbi`
 - 📱 **QR Scanner**: [Payment QR Code](https://image2url.com/images/1755427645279-884f3c42-e95d-413e-bf82-e8627974b730.jpg)
 
