@@ -4,13 +4,13 @@ A beautiful collection of professional-grade background patterns and gradients b
 
 ## Features
 
-- 🎨 **100+ Patterns** - Extensive collection of backgroundsS
-- 📋 **One-Click Copy** - Ready-to-use CSS code
+- 🎨 **100+ Patterns** - Extensive collection of backgroundsS.
+- 📋 **One-Click Copy** - Ready-to-use CSS code.
 - 👀 **Live Preview** - See patterns in action
-- 🌙 **Dark & Light Themes** - Patterns for every design
-- 📱 **Responsive Design** - Works on all devices
+- 🌙 **Dark & Light Themes** - Patterns for every design.
+- 📱 **Responsive Design** - Works on all devices.
 - ⚡ **Modern Tech Stack** - Built with Next.js 15 and Tailwind CSS
-
+.
 ## Pattern Categories
 
 - **Gradients** - Beautiful color transitions
