@@ -62,5 +62,4 @@ If you find PatterNix helpful, consider supporting the project:
 MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
-
-**PatterNix** - Craft Beautiful Pattern Backgrounds
+HELLO GUYS 
