@@ -59,7 +59,7 @@ If you find PatterNix helpful, consider supporting the project:
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+'MIT' License - see [LICENSE](LICENSE) file for details
 
 ---
 HELLO GUYS 
